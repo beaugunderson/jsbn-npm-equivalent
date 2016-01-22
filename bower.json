@@ -1,0 +1,24 @@
+{
+  "name": "jsbn-npm-equivalent",
+  "homepage": "https://github.com/beaugunderson/jsbn-npm-equivalent",
+  "authors": [
+    "Beau Gunderson <beau@beaugunderson.com>"
+  ],
+  "description": "A combined version of jsbn.js and jsbn2.js for Bower",
+  "main": "jsbn-combined.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jsbn",
+    "BigInteger"
+  ],
+  "license": "MIT-wu",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
